@@ -1,0 +1,57 @@
+.course {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.course-item {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #cdcdcd;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.course-img {
+  display: block;
+  width: 96%;
+  margin: 0 auto;
+}
+.title_div {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: block;
+  white-space: nowrap;
+  font-size: 22px;
+  text-align: left;
+  padding: 0.2%;
+}
+
+.subtitle{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: left;
+  padding: 0.2%;
+  white-space: nowrap;
+}
+
+.time_title {
+  font-size: 14px;
+  margin-top: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  padding: 0 2%;
+  color: #D64BD3;
+}
+
+.long {
+  color: #D6984D;
+}
