@@ -12,7 +12,7 @@
     "webpack": "webpack --config build/webpack.dev.config.js --progress --display-modules --colors"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "iview": "^3.5.4",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.5",
